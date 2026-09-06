@@ -2,7 +2,7 @@
 
 ## Author
 
-* **Name**:RISHI BALA KARTHICK L
+* **Name**:RISHI BALA KARTHICK K
 * **Register Number**: 212224050008
 * **Date of Submission**: 06/09/26
 
